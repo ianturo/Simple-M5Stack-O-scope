@@ -3,9 +3,9 @@
 ## This is a didactic code
 To learn the basic operation of a DSO build with a electronic hobbyist common components.
 
-Whit this small code you can run quickly a very simple oscilloscompe that can draw signal up to 50KHz
+Whit this small code write in arduino you can run quickly a very simple oscilloscope, that can draw signal up to 50KHz
 
-Ejemplos
+Examples
 
 ## ESP32 y ST7735
 
