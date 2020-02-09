@@ -24,7 +24,8 @@
 #include <SPI.h>
 
 
-#define TriggerPIN     2   
+                     /********************* ATENCION **********************************************/
+                     /* Tener presente que solo se pueden medir voltajes inferiores a 3.3 Voltios */
 #define AnalogPIN     36  
 #define SpeedPIN       5  
 #define PuntosTotal 1600
