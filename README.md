@@ -17,4 +17,8 @@ Examples
 
 ![M5Stack](M5StackOsc.png)
 
+## Basic wiring
+
+![Wiring](ESP32OSCFritzing.png)
+
 Thanks
