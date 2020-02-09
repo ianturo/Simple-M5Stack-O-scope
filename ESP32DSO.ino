@@ -26,8 +26,8 @@
 #define ST7735_DC    27
 #define ST7735_SCLK  18 
 #define ST7735_MOSI  23
-
-#define AnalogPIN  2
+                     /********************* ATENCION **********************************************/
+#define AnalogPIN  2 /* Tener presente que solo se pueden medir voltajes inferiores a 3.3 Voltios */
 
 Adafruit_ST7735 tft = Adafruit_ST7735(ST7735_CS,  ST7735_DC, ST7735_RST);
 
