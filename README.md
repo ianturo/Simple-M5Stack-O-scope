@@ -1,6 +1,6 @@
 # VerySimpleArduinoDigitalOscilloscope
 
-## This is a didactic code
+## This is a didactic project
 To learn the basic operation of a DSO build with a electronic hobbyist common components.
 
 Whit this small code write in arduino you can run quickly a very simple oscilloscope, that can draw signal up to 50KHz
