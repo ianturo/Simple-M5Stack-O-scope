@@ -1,4 +1,4 @@
-# VerySimpleArduinoDigitalOscilloscope
+# Simple-M5Stack-O-Scope
 
 ## This is a didactic project
 To learn the basic operation of a DSO build with a electronic hobbyist common components.
